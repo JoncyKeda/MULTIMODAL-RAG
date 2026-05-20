@@ -1,7 +1,6 @@
 ## MULTI MODAL RAG
 
-
-Multi Modal RAG (Retrieval-Augmented Generation) is an AI system that combines text, images,
+- Multi Modal RAG (Retrieval-Augmented Generation) is an AI system that combines text, images,
 and documents with retrieval and large language models to generate accurate, context-aware
 responses.
 
