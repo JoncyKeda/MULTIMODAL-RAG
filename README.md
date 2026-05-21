@@ -6,11 +6,12 @@ responses.
 
 
 ## Project Objective
-• Combine multiple data modalities
-• Retrieve relevant context
-• Generate grounded AI responses
+- Combine multiple data modalities
+- Retrieve relevant context
+- Generate grounded AI responses
 
-## AUTHOR - JONCY KEDA
+## AUTHOR 
+JONCY KEDA - AI Developer
 
 
 
