@@ -11,7 +11,7 @@ responses.
 - Generate grounded AI responses
 
 ## AUTHOR 
-JONCY KEDA - AI Developer
+Joncy Keda - AI Developer
 
 
 
